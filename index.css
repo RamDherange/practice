@@ -1,0 +1,26 @@
+*body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    color: black;
+    margin: 0%;
+    padding: 0%;
+
+}
+.para1 {
+    font-size: 20px;
+    padding: 1cm;
+    color: rgb(255, 0, 170);
+    border: 1px;
+
+}
+.para1:hover {
+    background-color: rgb(165, 250, 7);
+}
+.para2 {
+    font-size: 20px;
+    padding: 1cm;
+    color:rgb(0, 255, 98);
+}
+.para2:hover {
+    background-color: rgb(47, 0, 255);
+}
